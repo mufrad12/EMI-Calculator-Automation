@@ -1,7 +1,8 @@
 # EMI-Calculator-Automation
 
 # Appium Basic Google Calculator Automation
-### This is a automation on EMI calculator app with Selenium Appium. EMI Calculator is simple loan calculation tool that helps user to quickly calculate EMI and view payment schedule. Use this app to calculate your EMI (Equated Monthly Instalment), plan your loan repayment in effective way. This app is the advanced Financial Tool that is useful for day to day life with all useful features and keep upto date with the latest news.
+### This is an automation on EMI calculator app with Selenium Appium. 
+EMI Calculator is simple loan calculation tool that helps user to quickly calculate EMI and view payment schedule. Use this app to calculate your EMI (Equated Monthly Instalment), plan your loan repayment in effective way. This app is the advanced Financial Tool that is useful for day to day life with all useful features and keep upto date with the latest news.
 
 ### Technology: </br>
 - Tool: Selenium Webdriver
